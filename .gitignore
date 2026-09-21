@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+.venv312/
+.vs/
+vosk-model-small-en-us-0.15/
+model_download_*/
+*.zip
+saved_activities.txt
